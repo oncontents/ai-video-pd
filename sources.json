@@ -1,0 +1,124 @@
+{
+  "institutions": [
+    {
+      "institution_name": "한국평생교육사협회",
+      "recruitment_url": "https://kale.or.kr",
+      "notice_url": "https://kale.or.kr",
+      "job_board_url": "https://kale.or.kr"
+    },
+    {
+      "institution_name": "국가평생교육진흥원",
+      "recruitment_url": "https://www.nile.or.kr",
+      "notice_url": "https://www.nile.or.kr",
+      "job_board_url": "https://www.nile.or.kr"
+    },
+    {
+      "institution_name": "서울특별시평생교육진흥원",
+      "recruitment_url": "https://smile.seoul.kr",
+      "notice_url": "https://smile.seoul.kr",
+      "job_board_url": "https://smile.seoul.kr"
+    },
+    {
+      "institution_name": "경기도평생교육진흥원",
+      "recruitment_url": "https://www.gill.or.kr",
+      "notice_url": "https://www.gill.or.kr",
+      "job_board_url": "https://www.gill.or.kr"
+    },
+    {
+      "institution_name": "인천인재평생교육진흥원",
+      "recruitment_url": "https://www.itle.or.kr",
+      "notice_url": "https://www.itle.or.kr",
+      "job_board_url": "https://www.itle.or.kr"
+    },
+    {
+      "institution_name": "부산인재평생교육진흥원",
+      "recruitment_url": "https://www.bitle.kr",
+      "notice_url": "https://www.bitle.kr",
+      "job_board_url": "https://www.bitle.kr"
+    },
+    {
+      "institution_name": "대구광역시행복진흥사회서비스원 평생교육",
+      "recruitment_url": "https://daegu.pass.or.kr",
+      "notice_url": "https://daegu.pass.or.kr",
+      "job_board_url": "https://daegu.pass.or.kr"
+    },
+    {
+      "institution_name": "광주인재평생교육진흥원",
+      "recruitment_url": "https://www.gie.kr",
+      "notice_url": "https://www.gie.kr",
+      "job_board_url": "https://www.gie.kr"
+    },
+    {
+      "institution_name": "대전평생교육진흥원",
+      "recruitment_url": "https://www.dile.or.kr",
+      "notice_url": "https://www.dile.or.kr",
+      "job_board_url": "https://www.dile.or.kr"
+    },
+    {
+      "institution_name": "울산인재평생교육진흥원",
+      "recruitment_url": "https://www.ulsaninjae.or.kr",
+      "notice_url": "https://www.ulsaninjae.or.kr",
+      "job_board_url": "https://www.ulsaninjae.or.kr"
+    },
+    {
+      "institution_name": "세종인재평생교육진흥원",
+      "recruitment_url": "https://www.sjhle.or.kr",
+      "notice_url": "https://www.sjhle.or.kr",
+      "job_board_url": "https://www.sjhle.or.kr"
+    },
+    {
+      "institution_name": "강원인재육성평생교육진흥원",
+      "recruitment_url": "https://injae.gwd.go.kr",
+      "notice_url": "https://injae.gwd.go.kr",
+      "job_board_url": "https://injae.gwd.go.kr"
+    },
+    {
+      "institution_name": "충청북도평생교육진흥원",
+      "recruitment_url": "https://www.cbitle.or.kr",
+      "notice_url": "https://www.cbitle.or.kr",
+      "job_board_url": "https://www.cbitle.or.kr"
+    },
+    {
+      "institution_name": "충청남도평생교육인재육성진흥원",
+      "recruitment_url": "https://www.cile.or.kr",
+      "notice_url": "https://www.cile.or.kr",
+      "job_board_url": "https://www.cile.or.kr"
+    },
+    {
+      "institution_name": "전북특별자치도평생교육장학진흥원",
+      "recruitment_url": "https://www.jbiles.or.kr",
+      "notice_url": "https://www.jbiles.or.kr",
+      "job_board_url": "https://www.jbiles.or.kr"
+    },
+    {
+      "institution_name": "전라남도평생교육진흥원",
+      "recruitment_url": "https://www.jntle.kr",
+      "notice_url": "https://www.jntle.kr",
+      "job_board_url": "https://www.jntle.kr"
+    },
+    {
+      "institution_name": "경상북도인재평생교육진흥원",
+      "recruitment_url": "https://www.gitle.or.kr",
+      "notice_url": "https://www.gitle.or.kr",
+      "job_board_url": "https://www.gitle.or.kr"
+    },
+    {
+      "institution_name": "경상남도인재평생교육진흥원",
+      "recruitment_url": "https://www.gndamoa.or.kr",
+      "notice_url": "https://www.gndamoa.or.kr",
+      "job_board_url": "https://www.gndamoa.or.kr"
+    },
+    {
+      "institution_name": "제주평생교육장학진흥원",
+      "recruitment_url": "https://www.jiles.or.kr",
+      "notice_url": "https://www.jiles.or.kr",
+      "job_board_url": "https://www.jiles.or.kr"
+    },
+    {
+      "institution_name": "서울시교육청 평생학습포털 에버러닝",
+      "recruitment_url": "https://everlearning.sen.go.kr",
+      "notice_url": "https://everlearning.sen.go.kr",
+      "job_board_url": "https://everlearning.sen.go.kr"
+    }
+  ]
+}
